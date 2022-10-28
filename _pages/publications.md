@@ -9,7 +9,7 @@ nav: true
 
 <div class="publications">
 
-<h1 class="year" id="dissertations">theses</h1>
+<h1 class="year" id="dissertations">Recent ones</h1>
 {% bibliography -f dissertations %}
 
 </div>
