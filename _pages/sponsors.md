@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /collaborators/
+permalink: /sponsors/
 title: collaborators
 nav: true
 ---
