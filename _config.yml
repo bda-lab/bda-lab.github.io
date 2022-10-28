@@ -2,8 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: CBEA Lab # the website title (if blank, full name will be used instead)
-first_name: Centre for Big Data Engineering & Analytics
+title: ScaDS Lab # the website title (if blank, full name will be used instead)
+first_name: Scalable Data Science Lab
 middle_name: 
 last_name: IIIT Bangalore
 email: vinu.ev@iiitb.ac.in
