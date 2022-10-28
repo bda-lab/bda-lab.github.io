@@ -6,5 +6,5 @@ description: Startups and academic labs from SAILING members and alumni.
 nav: true
 ---
 
---<img src="/assets/img/community.png" width="100%"/>
+<!-- <img src="/assets/img/community.png" width="100%"/>--> 
 
