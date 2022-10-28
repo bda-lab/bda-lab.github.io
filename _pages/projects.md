@@ -1,12 +1,15 @@
 ---
 layout: page
-title: people
-permalink: /people/
-description:
+title: projects
+permalink: /projects/
+description: 
 nav: true
-display_categories: [current]
+display_categories: [project]
 horizontal: true
 ---
+
+<b>CBEA Members:</b> If you want to add your open-source project to this page, please refer to the <a href="/docs/open-source.md">instructions</a>.
+
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->

@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: sailing-locations.png
+  image: Big_data_logo.png
   address:
 
 news: true  # includes a list of news items
@@ -14,7 +14,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to the SAILING (Statistical Artificial Intelligence & Integrative Genomics) Lab! SAILING is a research laboratory created in 2004, and is headed by Professor Eric Xing. We are primarily based at Carnegie Mellon University and Mohamed bin Zayed University of Artificial Intelligence.
+This research center at [International Institute of Information Technology Bangalore](https://www.iiitb.ac.in/) (IIITB) focuses on various aspects of Information Management including developing scalable Big Data processing architectures and building systems and methods to manage and process structured, semi-structured, and unstructured high-velocity data from diverse sources for distributed data analytics. The “Big” refers to not just the volume of data, but also challenges concerning the variety, veracity, and velocity of the data.
 
-**Research synopsis**: Our principal research interests lie in the development of machine learning and statistical methodology, and large-scale computational system and architecture, for solving problems involving automated learning, reasoning, and decision-making in high-dimensional, multimodal, and dynamic possible worlds in artificial, biological, and social systems.
-
+This center was originally established in 2019 with Prof. Srinath Srinivasa as the founding member to enable collaboration between IIIT Bangalore, with [City University London](https://www.city.ac.uk/), as the UK partner, and Siemens Research, India, as the industry partner. Currently, in addition to the Royal engineering FCRA grant, the center is supported by several other grants and funding. Earlier projects carried out in this center can be found on the [WSL website](http://wsl.iiitb.ac.in/co-creation-of-a-center-of-excellence-in-big-data-engineering/).
