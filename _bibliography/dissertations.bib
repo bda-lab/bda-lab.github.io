@@ -15,18 +15,20 @@
   abstract = {Processing high-throughput data-streams has become a major challenge in areas such as real-time event monitoring, complex dataflow processing, and big data analytics. While there has been tremendous progress in distributed stream processing systems in the past few years, the high-throughput and low-latency (a.k.a. high sustainable-throughput) requirement of modern applications is pushing the limits of traditional data processing infrastructures. This paper introduces a new distributed stream processing engine (DSPE), called Asynchronous Iterative Routing (or simply “AIR”), which implements a light-weight, dynamic sharding protocol. AIR expedites direct and asynchronous communication among all the worker nodes via a channel-like communication protocol on top of the Message Passing Interface (MPI), thereby completely avoiding the need for a dedicated driver node. The system adopts a new progress-tracking protocol, called hew-meld, which has been experimentally observed to show a low processing latency on our asynchronous master-less architecture when compared to the conventional low-watermark technique. The current version of AIR is also equipped with two fault tolerance and recovery strategies namely checkpointing & rollback and replication. With its unique design, AIR scales out particularly well to multi-core HPC architectures; specifically, we deployed it on clusters with up to 16 nodes and 448 cores (thus reaching a peak of 435.3 million events and 55.14 GB of data processed per second), which we found to significantly outperform existing DSPEs.}
 }
 
+@inproceedings{deng2021compression,
+  abbr={EMNLP},
+  arxiv={https://arxiv.org/abs/2109.06379},
+  code={https://github.com/tanyuqian/ctc-gen-eval},
+  title={Compression, Transduction, and Creation: A Unified Framework for Evaluating Natural Language Generation},
+  author={Deng, Mingkai and Tan, Bowen and Liu, Zhengzhong and Xing, Eric P and Hu, Zhiting},
+  booktitle={EMNLP},
+  year={2021}
+}
+
 @inproceedings{DBLP:conf/comad/TosiVT22,
   author    = {Mauro Dalle Lucca Tosi and
                Vinu Ellampallil Venugopal and
                Martin Theobald},
-  editor    = {Gargi Dasgupta and
-               Yogesh Simmhan and
-               Balaji Vasan Srinivasan and
-               Sourav Bhowmick and
-               Amith Singhee and
-               Maya Ramanath and
-               Nipun Batra and
-               Abhinandan S. Prasad},
   title     = {Convergence time analysis of Asynchronous Distributed Artificial Neural
                Networks},
   booktitle = {{CODS-COMAD} 2022: 5th Joint International Conference on Data Science
