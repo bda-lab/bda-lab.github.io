@@ -2,7 +2,7 @@
 layout: page
 title: community
 permalink: /community/
-description: Startups and academic labs from SAILING members and alumni.
+description: Startups and academic labs from CBEA members and alumni.
 nav: true
 ---
 
