@@ -1,7 +1,7 @@
 ---
 layout: post
-date: Oct 1, 2021
+date: Sep 1, 2022
 inline: true
 ---
 
-Welcome new members to the [team](/people).
+Welcome Aniket to the [team](/people).
