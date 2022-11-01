@@ -12,6 +12,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+importance: 1
 ---
 
 Welcome to the ScaDS (Scalable Data Science) Lab! ScaDS is a research laboratory founded by [Prof. Vinu E. Venugopal](https://www.iiitb.ac.in/faculty/dr-vinu-e-venugopal) in 2021 at the [International Institute of Information Technology Bangalore](https://www.iiitb.ac.in/) (IIITB). The ScaDS team focuses primarily on developing scalable solutions for diverse big data problems. The “Big” here refers to not just the volume of the data but also challenges concerning the variety, veracity, and velocity of the data. 

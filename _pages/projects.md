@@ -6,6 +6,7 @@ description:
 nav: true
 display_categories: [project]
 horizontal: true
+importance: 2
 ---
 
 <b>CBEA Members:</b> If you want to add your open-source project to this page, please refer to the <a href="/docs/open-source.md">instructions</a>.
