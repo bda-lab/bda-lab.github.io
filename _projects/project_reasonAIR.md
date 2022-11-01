@@ -5,5 +5,5 @@ description: In collaboration with Dr. Raghava Mutharaju (https://www.iiitd.ac.i
 img: assets/img/reasone.png
 importance: 2
 category: project
-redirect: https://github.com/bda-uni-lu/AIRm
+redirect: https://github.com/kautukraj/Reasoning-with-Spark
 ---
