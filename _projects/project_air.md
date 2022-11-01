@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AIR
-description: Funded completely by the University of Luxembourg.
+description: Funded by the University of Luxembourg.
 img: assets/img/air.png
 importance: 5
 category: project
