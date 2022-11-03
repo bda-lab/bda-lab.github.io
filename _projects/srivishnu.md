@@ -2,7 +2,7 @@
 layout: page
 title: Srivishnu Sunku
 description: IMtech student, Project- Flink-R
-img: 
+img: https://picsum.photos/200
 importance: 6
 category: current
 redirect: https://in.linkedin.com/in/sunku-srivishnu-18a84a192
