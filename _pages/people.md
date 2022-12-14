@@ -68,7 +68,7 @@ importance: 3
   <li>Samaksh Dhingra (2022)</li>
   <li>Neelabh P Bhaskar (2022), Summer Intern 2022</li>
   <li>Siva Jagadesh (2022), Summer Intern 2022</li>
-</ol>
+  </ol>
   <b>Past iMTech project students</b> 
   <ol>
   <li>Abhigna Banda (2022)</li>
