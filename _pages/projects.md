@@ -8,9 +8,6 @@ display_categories: [project]
 horizontal: true
 importance: 2
 ---
-
-<b>CBEA Members:</b> If you want to add your open-source project to this page, please refer to the <a href="/docs/open-source.md">instructions</a>.
-
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
