@@ -55,4 +55,25 @@ importance: 3
 
   {% endif %}
 
+  
+  <b>Past iMTech PE/RE students</b> 
+  <ol>
+  <li>Divyam Agarwal (2021)</li>
+  <li>Kautuk Raj (2021), Summer Intern 2021</li>
+  <li>Srivishnu Sunku (2021)</li>
+  <li>Rachna Kedigehalli (2021), Summer Intern 2021</li>
+  <li>Sai Maheedhar (2021)</li>
+  <li>Samaksh Dhingra (2021)</li>
+  <li>Nandakishore S Menon (2021)</li>
+  <li>Samaksh Dhingra (2021)</li>
+  <li>Neelabh P Bhaskar (2021), Summer Intern 2021</li>
+  <li>Siva Jagadesh (2021), Summer Intern 2021</li>
+</ol>
+  <b>Past iMTech project students</b> 
+  <ol>
+  <li>Abhigna Banda (2022)</li>
+  <li>Ellanti Bharath Sai (2022)</li>
+  <li>Sairama Sashank Kaiyala (2022)</li>
+</ol>
+  
 </div>
