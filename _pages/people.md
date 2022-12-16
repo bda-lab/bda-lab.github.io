@@ -77,5 +77,5 @@ importance: 3
 </ol>
 
   <b>
-Note: </b>  The PE/RE and the Project students will be graded based on: (1) Research contribution (publishing/submitting papers), (2) Consistency of their interactions with the team, (3) Understanding the overall goal of the project/research topic and they ability to make suggestions, (4) Fulfilment of the assigned tasks on time, (5) Quality of the intermediate and the final reports/presentations. 
+Note: </b>  The PE/RE and the Project students will be graded based on: (1) Research contribution (publishing/submitting papers), (2) Consistency of their interactions with the team, (3) Understanding the overall goal of the project/research topic and their ability to make suggestions, (4) Fulfilment of the assigned tasks on time, (5) Quality of the intermediate and the final reports/presentations. 
 </div>
