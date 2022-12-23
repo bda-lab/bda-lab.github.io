@@ -1,7 +1,6 @@
 ---
 ---
 @article{DBLP:journals/corr/abs-2211-10280,
- abbr={CoRR},
   author    = {Mauro Dalle Lucca Tosi and
                Vinu E. Venugopal and
                Martin Theobald},
@@ -17,7 +16,6 @@
   timestamp = {Thu, 24 Nov 2022 15:52:33 +0100},
   biburl    = {https://dblp.org/rec/journals/corr/abs-2211-10280.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-  abstract = {Online learning (OL) from data streams is an emerging area of research that encompasses numerous challenges from stream processing, machine learning, and networking. Recent extensions of stream-processing platforms, such as Apache Kafka and Flink, already provide basic extensions for the training of neural networks in a stream-processing pipeline. However, these extensions are not scalable and flexible enough for many real-world use-cases, since they do not integrate the neural-network libraries as a first-class citizen into their architectures. In this paper, we present TensAIR, which provides an end-to-end dataflow engine for OL from data streams via a protocol to which we refer as asynchronous iterative routing. TensAIR supports the common dataflow operators, such as Map, Reduce, Join, and has been augmented by the data-parallel OL functions train and predict. These belong to the new Model operator, in which an initial TensorFlow model (either freshly initialized or pre-trained) is replicated among multiple decentralized worker nodes. Our decentralized architecture allows TensAIR to efficiently shard incoming data batches across the distributed model replicas, which in turn trigger the model updates via asynchronous stochastic gradient descent. We empirically demonstrate that TensAIR achieves a nearly linear scale-out in terms of (1) the number of worker nodes deployed in the network, and (2) the throughput at which the data batches arrive at the dataflow operators. We exemplify the versatility of TensAIR by investigating both sparse (Word2Vec) and dense (CIFAR-10) use-cases, for which we are able to demonstrate very significant performance improvements in comparison to Kafka, Flink, and Horovod. We also demonstrate the magnitude of these improvements by depicting the possibility of real-time concept drift adaptation of a sentiment analysis model trained over a Twitter stream.}
 }
 
 @article{VENUGOPAL202277,
@@ -66,35 +64,5 @@ abbr={BNAIC21},
   timestamp = {Wed, 19 Jan 2022 14:35:08 +0100},
   biburl    = {https://dblp.org/rec/conf/bnaic/Venugopal021.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
