@@ -5,5 +5,5 @@ description: Summer intern, Project- Data-Lake
 img: 
 importance: 6
 category: current
-redirect: [https://www.linkedin.com/in/sona-tyagi-a83644234/]
+redirect: https://www.linkedin.com/in/sona-tyagi-a83644234/
 ---
