@@ -16,7 +16,7 @@ importance: 5
 <h3>CS876 Streaming Data Systems</h3>
 <p>Term-I Aug-2022 - Jan-2023</p>
 
-<h3>CS838 Cloud Computing CS838</h3>
+<h3>CS838 Cloud Computing</h3>
 <p>Term-II Dec-2021 - May-2022</p>
 
 <!-- <h3>Introduction to Machine Learning</h3>
