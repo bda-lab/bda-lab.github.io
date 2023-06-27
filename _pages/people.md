@@ -55,7 +55,11 @@ importance: 3
 
   {% endif %}
 
-  
+<b>Summer Interns</b> 
+  <ol>
+  <li>Sona Tyagi (June-July, 2023), University of Petroleum and Energy Studies, Dehradun</li>
+  <li> R Brundha (June-July, 2023), Christ University, Bengaluru</li>
+</ol>
   <b>Past iMTech PE/RE students</b> 
   <ol>
   <li>Divyam Agarwal (2022)</li>
