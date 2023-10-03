@@ -55,10 +55,11 @@ importance: 3
 
   {% endif %}
 
-<b>Summer Interns</b> 
+<b>Summer-Project Interns</b> 
   <ol>
   <li>Sona Tyagi (June-July, 2023), University of Petroleum and Energy Studies, Dehradun</li>
   <li> R Brundha (June-July, 2023), Christ University, Bengaluru</li>
+  <li> Vishwadharani EVR (July-Dec, 2023), Thiagarajar College of Engineering, Madurai</li>
 </ol>
   <b>Past iMTech PE/RE students</b> 
   <ol>
