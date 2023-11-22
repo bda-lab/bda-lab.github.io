@@ -12,6 +12,7 @@ importance: 5
 <!-- <h1 id="teaching">teaching</h1> -->
 <h3>CS839 NoSQL Systems</h3>
 <p>Term-II Jan-2023 - May-2022</p>
+<img src="assets/img/NoSQLCourseDetails.png" alt="QR code syllabus">
   
 <h3>CS876 Streaming Data Systems</h3>
 <p>Term-I Aug-2022 - Jan-2023</p>
