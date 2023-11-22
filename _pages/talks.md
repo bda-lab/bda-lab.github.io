@@ -23,7 +23,7 @@ importance: 5
 
 <h3>AI551 Foundations of AI (along with Prof. Badrinath R)</h3>
 <p>Term-II Jan-2024 - May-2024</p>
-<a href="[https://iiitbac-my.sharepoint.com/personal/vinu_ev_iiitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvinu%5Fev%5Fiiitb%5Fac%5Fin%2FDocuments%2F1%2E1NoSQL%5FIntro%2Epdf&parent=%2Fpersonal%2Fvinu%5Fev%5Fiiitb%5Fac%5Fin%2FDocuments&ga=1](https://iiitbac-my.sharepoint.com/:b:/g/personal/vinu_ev_iiitb_ac_in/EYrXl1cHwypLhSfU0TH85NMBP585WIvNOsxQyLXDnnLyBw?e=owWgc9)">The two school of thoughts in AI</a>
+<a href="https://iiitbac-my.sharepoint.com/:b:/g/personal/vinu_ev_iiitb_ac_in/EYrXl1cHwypLhSfU0TH85NMBP585WIvNOsxQyLXDnnLyBw?e=owWgc9">The two school of thoughts in AI</a>
 
 <!-- <h3>Introduction to Machine Learning</h3>
 <a href="https://www.cs.cmu.edu/~epxing/Class/10701-20/">[Course Website]</a>
