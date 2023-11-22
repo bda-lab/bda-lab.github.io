@@ -12,7 +12,7 @@ importance: 5
 <!-- <h1 id="teaching">teaching</h1> -->
 <h3>CS839 NoSQL Systems</h3>
 <p>Term-II Jan-2023 - May-2022</p>
-<img src="assets/img/NoSQLCourseDetails.png" alt="QR code syllabus">
+<a href="https://iiitbac-my.sharepoint.com/:i:/g/personal/vinu_ev_iiitb_ac_in/EbqY_pYxQkpCos1Y3gh51AgBI4Zc7nO4fsOhoq7Wyajqpw?e=ilhFNl">QR code</a>
 <a href="https://iiitbac-my.sharepoint.com/personal/vinu_ev_iiitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvinu%5Fev%5Fiiitb%5Fac%5Fin%2FDocuments%2F1%2E1NoSQL%5FIntro%2Epdf&parent=%2Fpersonal%2Fvinu%5Fev%5Fiiitb%5Fac%5Fin%2FDocuments&ga=1">Course overview slides</a>
   
 <h3>CS876 Streaming Data Systems</h3>
