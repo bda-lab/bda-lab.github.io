@@ -11,15 +11,19 @@ importance: 5
 <div class="publications">
 <!-- <h1 id="teaching">teaching</h1> -->
 <h3>CS839 NoSQL Systems</h3>
-<p>Term-II Jan-2023 - May-2022</p>
+<p>Term-II Jan-2024 - May-2024 (repeated 1 time)</p>
 <a href="https://iiitbac-my.sharepoint.com/:i:/g/personal/vinu_ev_iiitb_ac_in/EbqY_pYxQkpCos1Y3gh51AgBI4Zc7nO4fsOhoq7Wyajqpw?e=ilhFNl">QR code</a>
 <a href="https://iiitbac-my.sharepoint.com/personal/vinu_ev_iiitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvinu%5Fev%5Fiiitb%5Fac%5Fin%2FDocuments%2F1%2E1NoSQL%5FIntro%2Epdf&parent=%2Fpersonal%2Fvinu%5Fev%5Fiiitb%5Fac%5Fin%2FDocuments&ga=1">Course overview slides</a>
   
-<h3>CS876 Streaming Data Systems</h3>
-<p>Term-I Aug-2022 - Jan-2023</p>
+<h3>CS876 Streaming Data Systems </h3>
+<p>Term-I Aug-2023 - Jan-2024 (repeated 1 time)</p>
 
 <h3>CS838 Cloud Computing</h3>
 <p>Term-II Dec-2021 - May-2022</p>
+
+<h3>AI551 Foundations of AI (along with Prof. Badrinath R)</h3>
+<p>Term-II Jan-2024 - May-2024</p>
+<a href="[https://iiitbac-my.sharepoint.com/personal/vinu_ev_iiitb_ac_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fvinu%5Fev%5Fiiitb%5Fac%5Fin%2FDocuments%2F1%2E1NoSQL%5FIntro%2Epdf&parent=%2Fpersonal%2Fvinu%5Fev%5Fiiitb%5Fac%5Fin%2FDocuments&ga=1](https://iiitbac-my.sharepoint.com/:b:/g/personal/vinu_ev_iiitb_ac_in/EYrXl1cHwypLhSfU0TH85NMBP585WIvNOsxQyLXDnnLyBw?e=owWgc9)">The two school of thoughts in AI</a>
 
 <!-- <h3>Introduction to Machine Learning</h3>
 <a href="https://www.cs.cmu.edu/~epxing/Class/10701-20/">[Course Website]</a>
