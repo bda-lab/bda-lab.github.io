@@ -33,7 +33,7 @@ importance: 5
 
 
 <!-- <h1 id="talks">talks</h1> -->
-{% bibliography -f talks %}
+<!--{% bibliography -f talks %} -->
 
 
 </div>
