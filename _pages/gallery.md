@@ -2,7 +2,7 @@
 layout: page
 title: gallery
 permalink: /gallery/
-description: New
+description: 
 nav: true
 importance: 6
 ---
