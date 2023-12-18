@@ -1,8 +1,8 @@
 ---
 layout: page
-title: community
-permalink: /community/
-description: Startups and academic labs from ScaDS Lab members and alumni.
+title: gallery
+permalink: /gallery/
+description: 
 nav: true
 importance: 6
 ---
