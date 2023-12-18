@@ -7,5 +7,9 @@ nav: true
 importance: 6
 ---
 
-<!-- <img src="/assets/img/community.png" width="100%"/>--> 
+<h2>Recent Events</h2>
+<ol>
+<li><img src="https://html-online.com/img/dlteam.jpeg" alt="interactive connection" width="45" /> Datalake-AI team outting</li>
+<li><img src="https://html-online.com/img/pes.jpeg" alt="html cleaner" width="45" /> Vinu delivered a Talk on "Data Engineering and Modern Streaming Systems" at Data Analytics and IoT Workshop organized by the Dept. of CSE at PES University, EC Campus!</li>
+</ol>
 
